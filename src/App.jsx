@@ -31,12 +31,12 @@ function App() {
     <>
    
       <h1 className='headingStyle'>Todo App</h1>
-      <Card/>
-      <Card/>
-      <Card/>
-      <Card/>
-      <Card/>
-      <Card/>
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
     </>
   )
 }
